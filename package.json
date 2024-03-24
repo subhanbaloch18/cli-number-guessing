@@ -1,6 +1,6 @@
 {
   "name": "s2bl-cli-number-guessing",
-  "version": "4.0.1",
+  "version": "4.0.0",
   "description": "it is a cli based number guessing game.",
   "main": "index.js",
   "type": "module",
